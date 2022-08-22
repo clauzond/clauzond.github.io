@@ -27,15 +27,15 @@ projects:
     role: Developer
     timeline: "May 2022 - Aug 2022"
     url: "https://www.roseautechnologies.com/en/grid-expander/"
-    summary: Development of the front‑end of the electrical network mock-up GridExpanDER during a 3-months internship.
+    summary: Development of the front-end of the electrical network mock-up GridExpanDER during a 3-months internship.
     tags: ["professional", "react", "d3.js", "javascript"]
 
-  - name: 'Mobile Application "where you''re the hero"'
+  - name: 'Mobile application "where you''re the hero"'
     logo: /images/sections/projects/react-native.png
     # role: Developer
     timeline: "Apr 2022"
     repo: https://github.com/thecsmine/ensimag-projet-web
-    summary: An application for writing collaborative stories. Uses React Native as the front‑end framework, Express as the back-end framework and Sequelize+SQLite for the database.
+    summary: An application for writing collaborative stories. Uses React Native as the front-end framework, Express as the back-end framework and Sequelize+SQLite for the database.
     tags: ["school", "react native", "sequelize", "express", "javascript"]
 
   - name: Deca Compiler
@@ -53,15 +53,15 @@ projects:
     summary: JavaScript implementation of the Connect Four board game. This project helped me learn the basics of HTML, CSS and JS.
     tags: ["hobby", "javascript"]
 
-  - name: Graphical Interface
+  - name: Graphical interface
     logo: /images/sections/projects/c.png
     # role: Nothing
     timeline: "May 2021"
     repo: https://github.com/thecsmine/ensimag-project-c-interface-graphique
-    summary: A three-week project to learn more about the programming language C. The library developped allows for primitive graphical drawings, geometry management and user event management.
+    summary: A three-week project to learn more about the programming language C. The library developed allows for primitive graphical drawings, geometry management and user event management.
     tags: ["school", "c", "gui"]
 
-  - name: Password Manager
+  - name: Password manager
     logo: /images/sections/projects/python.png
     # role: Nothing
     timeline: "Nov 2020"

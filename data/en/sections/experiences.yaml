@@ -16,11 +16,11 @@ experiences:
       location: Meylan, France
       overview: Roseau Technologies is a company created in 2018 by three PhDs from Grenoble laboratories whose objective is to develop new technologies to help with energy and digital transitions for actors in the electrical energy sector.
     positions:
-      - designation: Assistant Engineer Internship as a Front‑End Developer
+      - designation: Assistant Engineer Internship as a Front-End Developer
         start: May 2022
         end: Aug 2022
         responsibilities:
-          - "Autonomous development of the front‑end of a mock‑up of an electrical network: screen interface and dashboard dashboard (React.js)"
+          - "Autonomous development of the front-end of a mock-up of an electrical network: screen interface and dashboard dashboard (React.js)"
           - "Representation of data in the form of diagrams or graphs (plotly.js, d3.js)"
           - "Addition of functionalities on a network modeling software manipulating a map (Maplibre GL JS)"
 
@@ -34,7 +34,7 @@ experiences:
         end: Aug 2018
         responsibilities:
           - Checking the compliance of agency files
-          - Handling of telephone calls with agencies
+          - Handling telephone calls with agencies
 
   - company:
       name: AXUP

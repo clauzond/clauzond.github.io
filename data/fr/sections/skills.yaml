@@ -13,7 +13,7 @@ section:
 skills:
   - name: Javascript
     logo: /images/sections/skills/javascript.png
-    summary: "Langage de programmation préféré. Expérience dans le développement front‑end d'interfaces utilisateurs. Maîtrise de React.js, d3.js, TypeScript, etc."
+    summary: "Langage de programmation préféré. Expérience dans le développement front-end d'interfaces utilisateurs. Maîtrise de React.js, d3.js, TypeScript, etc."
 
   - name: Python
     logo: /images/sections/skills/python.png
@@ -26,13 +26,13 @@ skills:
 
   - name: C
     logo: /images/sections/skills/c.png
-    summary: "Connaissances basiques en C. Réalisation de projets d'école bas-niveau tel que le développement d'un processeur RISC‑V ou d'un noyau d'OS miniature."
+    summary: "Connaissances basiques en C. Réalisation de projets d'école bas-niveau tel que le développement d'un processeur RISC-V ou d'un noyau d'OS miniature."
 
   - name: Git
     logo: /images/sections/skills/git.png
-    summary: "Maîtrise l'outil de versionnage git. A déjà travaillé avec GitHub Actions et GitLab CI/CD."
+    summary: "Maîtrise l'outil de gestion de versions git. A déjà travaillé avec GitHub Actions et GitLab CI/CD."
     # url: "https://git-scm.com/"
 
   - name: Linux
     logo: /images/sections/skills/linux.png
-    summary: "Utilisé comme système d'exploitation second. Connaissances basiques des scripts bash/shell."
+    summary: "Utilisé comme système d'exploitation second. Connaissances basiques des scripts bash / shell."

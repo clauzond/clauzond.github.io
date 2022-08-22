@@ -13,7 +13,7 @@ section:
 skills:
   - name: Javascript
     logo: /images/sections/skills/javascript.png
-    summary: "Favorite programming language. Have experience in developping front‑end user interfaces. Familiar with React.js, d3.js, TypeScript etc."
+    summary: "Favorite programming language. Have experience in developing front-end user interfaces. Familiar with React.js, d3.js, TypeScript etc."
 
   - name: Python
     logo: /images/sections/skills/python.png
@@ -22,15 +22,15 @@ skills:
 
   - name: Java
     logo: /images/sections/skills/java.png
-    summary: "Have done several schools projects in Java to learn about object‑oriented programming in depth, including a one‑month sotftware engineering project."
+    summary: "Have done several school projects in Java to learn about object-oriented programming in depth, including a one-month software engineering project."
 
   - name: C
     logo: /images/sections/skills/c.png
-    summary: "Know basic C programming. Used for low‑level school projects such as developping a RISC‑V processor, or a miniature OS kernel."
+    summary: "Know basic C programming. Used for low-level school projects such as developing a RISC-V processor, or a miniature OS kernel."
 
   - name: Git
     logo: /images/sections/skills/git.png
-    summary: "Experienced with git‑based development. Familiar with GitHub Actions and GitLab CI/CD."
+    summary: "Experienced with git-based development. Familiar with GitHub Actions and GitLab CI/CD."
     # url: "https://git-scm.com/"
 
   - name: Linux

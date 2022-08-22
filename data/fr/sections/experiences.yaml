@@ -16,7 +16,7 @@ experiences:
       location: Meylan, France
       overview: Roseau Technologies est une entreprise créée en 2018 par trois docteurs issus des laboratoires Grenoblois dont l’objectif est de développer de nouvelles technologies afin d’aider aux transitions énergétiques et numériques les acteurs du secteur de l’énergie électrique.
     positions:
-      - designation: Stage Assistant Ingénieur en Développement Front‑End
+      - designation: Stage Assistant Ingénieur en Développement Front-End
         start: Mai 2022
         end: Août 2022
         responsibilities:
@@ -40,7 +40,7 @@ experiences:
       name: AXUP
       url: "https://www.axup.fr/"
       location: Nîmes, France
-      overview: AXUP fournit des services, des conseils et de la maintenance dans les domaines de l'informatique, des logiciels et de la télécommunications.
+      overview: AXUP fournit des services, des conseils et de la maintenance dans les domaines de l'informatique, des logiciels et de la télécommunication.
     positions:
       - designation: Stage dans la section Informatique et Telecom
         start: Mars 2016

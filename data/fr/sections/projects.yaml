@@ -27,7 +27,7 @@ projects:
     role: Développeur
     timeline: "Mai 2022 - Août 2022"
     url: "https://www.roseautechnologies.com/fr/grid-expander-fr/"
-    summary: Développement du front‑end de la maquette de réseau électrique GridExpanDER pendant un stage de 3 mois.
+    summary: Développement du front-end de la maquette de réseau électrique GridExpanDER pendant un stage de 3 mois.
     tags: ["professionnel", "react", "d3.js", "javascript"]
 
   - name: 'Application Mobile "dont vous êtes le héros"'
@@ -35,7 +35,7 @@ projects:
     # role: Developer
     timeline: "Avril 2022"
     repo: https://github.com/thecsmine/ensimag-projet-web
-    summary: Une application pour écrire des histoires collaboratives. Utilise React Native pour le front‑end, Express pour le back-end et Sequelize+SQLite pour la base de données.
+    summary: Une application pour écrire des histoires collaboratives. Utilise React Native pour le front-end, Express pour le back-end et Sequelize+SQLite pour la base de données.
     tags: ["ecole", "react native", "sequelize", "express", "javascript"]
 
   - name: Compilateur Deca
@@ -62,10 +62,10 @@ projects:
     summary: Un projet de trois semaines pour découvrir en profondeur le langage de programmation C. La librairie développée permet l'utilisation de dessins de primitives graphiques, de gestion de la géométrie et de gestion des évènements utilisateurs.
     tags: ["ecole", "c", "gui"]
 
-  - name: Gestionnaire de mot de passe
+  - name: Gestionnaire de mots de passe
     logo: /images/sections/projects/python.png
     # role: Nothing
     timeline: "Novembre 2020"
     repo: https://github.com/thecsmine/MyManager/
-    summary: Un script Python pour m'aider à gérer mes mots de passes, en les encryptant et en les écrivant automatiquement.
+    summary: Un script Python pour m'aider à gérer mes mots de passe, en les encryptant et en les écrivant automatiquement.
     tags: ["hobby", "python"]
