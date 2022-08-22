@@ -1,6 +1,6 @@
 # section information
 section:
-  name: Education
+  name: Formation
   id: education
   template: sections/education.html
   enable: true
@@ -10,13 +10,13 @@ section:
   # hideTitle: true
 
 degrees:
-  - name: "Information Systems Engineering - Computer Science & Applied Mathematics"
+  - name: "Ingénierie des Systèmes d'Information - Informatique & Mathématiques appliquées"
     icon: fa-graduation-cap
     timeframe: 2020-2023
     institution:
       name: "Grenoble INP, UGA - Ensimag (Saint-Martin-d'Hères, France)"
       url: "https://ensimag.grenoble-inp.fr/"
-  - name: "MP* (Maths & Physics, Second Year Star Preparatory Class)"
+  - name: "MP* (Maths Physique, deuxième année de classe préparatoire étoile)"
     icon: fa-university
     timeframe: 2019-2020
     institution:
@@ -38,7 +38,7 @@ degrees:
           url: "https://www.concours-centrale-supelec.fr/"
           achieved: 0
           outOf: 0
-  - name: "MPSI (Maths, Physics & Science of Engineering, First Year Preparatory Class)"
+  - name: "MPSI (Maths, Physique et Sciences de l'Ingénieur, première année de classe préparatoire)"
     icon: fa-university
     timeframe: 2018-2019
     institution:

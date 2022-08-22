@@ -2,7 +2,7 @@
 name: "Damien Clauzon"
 nickname: "Damien"
 # greeting message before your name. it will default to "Hi! I am" if not provided
-greeting: "Hi 👋, I'm"
+greeting: "Salut 👋, je m'appelle"
 image: "images/author/damien.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
@@ -13,8 +13,8 @@ contactInfo:
 
 # some summary about what you do
 summary:
-  - I am a developer
-  - I love JavaScript
-  - I am a student
-  - My favorite IDE is VSCode
-  - I enjoy working with open-source projects
+  - Je suis développeur
+  - J'adore travailler avec JavaScript
+  - Je suis étudiant
+  - Mon IDE préféré est VSCode
+  - J'aime travailler avec des projets open-source

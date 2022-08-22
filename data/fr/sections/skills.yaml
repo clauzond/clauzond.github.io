@@ -1,0 +1,38 @@
+# section information
+section:
+  name: Compétences
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+  - name: Javascript
+    logo: /images/sections/skills/javascript.png
+    summary: "Langage de programmation préféré. Expérience dans le développement front‑end d'interfaces utilisateurs. Maîtrise de React.js, d3.js, TypeScript, etc."
+
+  - name: Python
+    logo: /images/sections/skills/python.png
+    summary: "Premier langage de programmation, et préféré pour écrire des scripts légers. Réalisation de plusieurs projets d'école principalement pour l'étude de l'algorithmique."
+    # url: "https://www.python.org/"
+
+  - name: Java
+    logo: /images/sections/skills/java.png
+    summary: "Réalisation de plusieurs projets d'école en Java pour apprendre la programmation orientée objet en profondeur, ainsi qu'un projet de génie logiciel d'un mois."
+
+  - name: C
+    logo: /images/sections/skills/c.png
+    summary: "Connaissances basiques en C. Réalisation de projets d'école bas-niveau tel que le développement d'un processeur RISC‑V ou d'un noyau d'OS miniature."
+
+  - name: Git
+    logo: /images/sections/skills/git.png
+    summary: "Maîtrise l'outil de versionnage git. A déjà travaillé avec GitHub Actions et GitLab CI/CD."
+    # url: "https://git-scm.com/"
+
+  - name: Linux
+    logo: /images/sections/skills/linux.png
+    summary: "Utilisé comme système d'exploitation second. Connaissances basiques des scripts bash/shell."

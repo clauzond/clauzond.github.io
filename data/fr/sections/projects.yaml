@@ -1,0 +1,71 @@
+# section information
+section:
+  name: Projets
+  id: projects
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# filter buttons
+buttons:
+  - name: Tous
+    filter: "all"
+  - name: Professionnel
+    filter: "professionnel"
+  - name: Ecole
+    filter: "ecole"
+  - name: Hobby
+    filter: "hobby"
+
+# your projects
+projects:
+  # [GridExpanDER, Projet Web, Projet GL, Projet JAVA, Projet C GUI, Puissance 4 JS, Reversi JS, Projet ISN, MyManager Python]
+  - name: GridExpanDER
+    logo: /images/sections/projects/react.png
+    role: Développeur
+    timeline: "Mai 2022 - Août 2022"
+    url: "https://www.roseautechnologies.com/fr/grid-expander-fr/"
+    summary: Développement du front‑end de la maquette de réseau électrique GridExpanDER pendant un stage de 3 mois.
+    tags: ["professionnel", "react", "d3.js", "javascript"]
+
+  - name: 'Application Mobile "dont vous êtes le héros"'
+    logo: /images/sections/projects/react-native.png
+    # role: Developer
+    timeline: "Avril 2022"
+    repo: https://github.com/thecsmine/ensimag-projet-web
+    summary: Une application pour écrire des histoires collaboratives. Utilise React Native pour le front‑end, Express pour le back-end et Sequelize+SQLite pour la base de données.
+    tags: ["ecole", "react native", "sequelize", "express", "javascript"]
+
+  - name: Compilateur Deca
+    logo: /images/sections/projects/java.png
+    # role: Team Lead
+    timeline: "Janvier 2022"
+    summary: Un projet génie logiciel d'une durée d'un mois, qui permet de découvrir l'importance du travail en équipe et des méthodes agiles. Le compilateur de ce sous-langage de Java construit un exécutable depuis un fichier source.
+    tags: ["ecole", "java", "agile", "compilateur"]
+
+  - name: Puissance 4
+    logo: /images/sections/projects/javascript.png
+    # role: Nothing
+    timeline: "Juin 2021"
+    url: https://thecsmine.github.io/ConnectFourJS/
+    summary: JavaScript implementation of the Connect Four board game. This project helped me learn the basics of HTML, CSS and JS.
+    summary: Implémentation en JavaScript du jeu de société Puissance 4. Ce projet m'a permis d'apprendre les bases en HTML, CSS et JS.
+    tags: ["hobby", "javascript"]
+
+  - name: Interface graphique
+    logo: /images/sections/projects/c.png
+    # role: Nothing
+    timeline: "Mai 2021"
+    repo: https://github.com/thecsmine/ensimag-project-c-interface-graphique
+    summary: Un projet de trois semaines pour découvrir en profondeur le langage de programmation C. La librairie développée permet l'utilisation de dessins de primitives graphiques, de gestion de la géométrie et de gestion des évènements utilisateurs.
+    tags: ["ecole", "c", "gui"]
+
+  - name: Gestionnaire de mot de passe
+    logo: /images/sections/projects/python.png
+    # role: Nothing
+    timeline: "Novembre 2020"
+    repo: https://github.com/thecsmine/MyManager/
+    summary: Un script Python pour m'aider à gérer mes mots de passes, en les encryptant et en les écrivant automatiquement.
+    tags: ["hobby", "python"]

@@ -1,0 +1,63 @@
+# section information
+section:
+  name: Expériences
+  id: experiences
+  enable: true
+  weight: 4
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your experiences
+experiences:
+  - company:
+      name: Roseau Technologies
+      url: "https://www.roseautechnologies.com/fr/"
+      location: Meylan, France
+      overview: Roseau Technologies est une entreprise créée en 2018 par trois docteurs issus des laboratoires Grenoblois dont l’objectif est de développer de nouvelles technologies afin d’aider aux transitions énergétiques et numériques les acteurs du secteur de l’énergie électrique.
+    positions:
+      - designation: Stage Assistant Ingénieur en Développement Front‑End
+        start: Mai 2022
+        end: Août 2022
+        responsibilities:
+          - "Développement en autonomie du front-end d'une maquette de réseau électrique : interface des écrans et tableau de bord (React.js)"
+          - "Représentation des données sous forme de schémas ou de graphiques (plotly.js, d3.js)"
+          - "Ajout de fonctionnalités sur un logiciel d'étude de réseaux manipulant une carte (Maplibre GL JS)"
+
+  - company:
+      name: Banque Populaire du Sud
+      url: "https://www.banquepopulaire.fr/sud/"
+      location: Nîmes, France
+    positions:
+      - designation: Auxiliaire d'été au service Assurance et Placement financier
+        start: Juillet 2018
+        end: Août 2018
+        responsibilities:
+          - Contrôle de la conformité des dossiers d'agence
+          - Prise en charge des appels téléphoniques avec agences
+
+  - company:
+      name: AXUP
+      url: "https://www.axup.fr/"
+      location: Nîmes, France
+      overview: AXUP fournit des services, des conseils et de la maintenance dans les domaines de l'informatique, des logiciels et de la télécommunications.
+    positions:
+      - designation: Stage dans la section Informatique et Telecom
+        start: Mars 2016
+        end: Avril 2016
+        responsibilities:
+          - Réparation d'ordinateurs en autonomie complète
+          - Assistance dans la maintenance à la clientèle
+
+  - company:
+      name: Ordisys
+      url: "https://www.ordisys.fr/"
+      location: Nîmes, France
+      overview: Ordisys fournit des services informatiques, des conseils et de la maintenance.
+    positions:
+      - designation: Stage dans la section Magasin et Réparation
+        start: Février 2015
+        end: Mars 2015
+        responsibilities:
+          - Accueil et orientation de la clientèle en magasin
+          - Prises de rendez-vous, et appels téléphoniques

@@ -3,62 +3,61 @@ section:
   name: Experiences
   id: experiences
   enable: true
-  weight: 3
+  weight: 4
   showOnNavbar: true
   # Can optionally hide the title in sections
-  # hideTitle: true 
+  # hideTitle: true
 
 # Your experiences
 experiences:
-- company:
-    name: Example Co.
-    url: "https://www.example.com"
-    location: Dhaka Branch
-    # company overview
-    overview: Example Co. is a widely recognized company for cloud-native development. It builds tools for Kubernetes.
-  positions:
-  - designation: Senior Software Engineer
-    start: Nov 2019
-    # don't provide end date if you are currently working there. It will be replaced by "Present"
-    # end: Dec 2020
-    # give some points about what was your responsibilities at the company.
-    responsibilities:
-    - Design and develop XYZ tool for ABC task
-    - Design, develop and manage disaster recovery tool [Xtool](https://www.example.com) that backup Kubernetes volumes, databases, and cluster's resource definition.
-    - Lead backend team.
+  - company:
+      name: Roseau Technologies
+      url: "https://www.roseautechnologies.com/"
+      location: Meylan, France
+      overview: Roseau Technologies is a company created in 2018 by three PhDs from Grenoble laboratories whose objective is to develop new technologies to help with energy and digital transitions for actors in the electrical energy sector.
+    positions:
+      - designation: Assistant Engineer Internship as a Front‑End Developer
+        start: May 2022
+        end: Aug 2022
+        responsibilities:
+          - "Autonomous development of the front‑end of a mock‑up of an electrical network: screen interface and dashboard dashboard (React.js)"
+          - "Representation of data in the form of diagrams or graphs (plotly.js, d3.js)"
+          - "Addition of functionalities on a network modeling software manipulating a map (Maplibre GL JS)"
 
-  - designation: Junior Software Engineer
-    start: Nov 2017
-    end: Oct 2019
-    responsibilities:
-    - Implement and test xyz feature for abc tool.
-    - Support client for abc tool.
-    - Learn k,d,w technology for xyz.
+  - company:
+      name: Banque Populaire du Sud
+      url: "https://www.banquepopulaire.fr/sud/"
+      location: Nîmes, France
+    positions:
+      - designation: Summer Internship in the Insurance and Financial Investment department
+        start: Jul 2018
+        end: Aug 2018
+        responsibilities:
+          - Checking the compliance of agency files
+          - Handling of telephone calls with agencies
 
-- company:
-    name: PreExample Co.
-    url: "https://www.example.com"
-    location: Nowhere
-    overview: PreExample Co. is a gateway company to enter into Example co. So, nothing special here.
-  positions:
-  - designation: Software Engineer
-    start: March 2016
-    end: May 2017
-    responsibilities:
-    - Write lots of example codes.
-    - Read lots of examples.
-    - See lots of example videos.
+  - company:
+      name: AXUP
+      url: "https://www.axup.fr/"
+      location: Nîmes, France
+      overview: AXUP provides IT / Software / Telecom services, advice and maintenance.
+    positions:
+      - designation: Internship in the Computer and Telecom section
+        start: Mar 2016
+        end: Apr 2016
+        responsibilities:
+          - Repair of computers in complete autonomy
+          - Assistance of a technician in customer maintenance
 
-- company:
-    name: Intern Counting Company (ICC).
-    url: "https://www.example.com"
-    location: Intern Land
-    overview: Intern counting Company (ICC) is responsible for counting worldwide intern Engineers.
-  positions:
-  - designation: Intern
-    start: Jun 2015
-    end: Jan 2016
-    responsibilities:
-    - Count lost of interns.
-    - Count more interns.
-    - Count me as an intern.
+  - company:
+      name: Ordisys
+      url: "https://www.ordisys.fr/"
+      location: Nîmes, France
+      overview: Ordisys provides IT services, advice and maintenance.
+    positions:
+      - designation: Internship in the Store and Repair section
+        start: Feb 2015
+        end: Mar 2015
+        responsibilities:
+          - Reception and orientation of the customers in store
+          - Appointments and phone calls
