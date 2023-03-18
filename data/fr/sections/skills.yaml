@@ -11,9 +11,13 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-  - name: Javascript
+  - name: TypeScript
+    logo: /images/sections/skills/typescript.png
+    summary: "Langage de programmation préféré. Expérience dans le développement full-stack. Maîtrise de React.js, Next.js, etc."
+
+  - name: JavaScript
     logo: /images/sections/skills/javascript.png
-    summary: "Langage de programmation préféré. Expérience dans le développement front-end d'interfaces utilisateurs. Maîtrise de React.js, d3.js, TypeScript, etc."
+    summary: "Langage de programmation préféré si TypeScript n'existait pas. Expérience dans le développement front-end d'interfaces utilisateurs. Maîtrise de React.js, d3.js, etc."
 
   - name: Python
     logo: /images/sections/skills/python.png

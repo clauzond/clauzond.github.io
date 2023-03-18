@@ -11,6 +11,18 @@ section:
 # Your experiences
 experiences:
   - company:
+      name: Theodo
+      url: "https://www.theodo.fr/"
+      location: Lyon, France
+      overview: Theodo is a tech-team-for-hire web development company created in 2009 helping companies have record-time delivery of their first features and long-term maintainability of their platform.
+    positions:
+      - designation: Final Year Internship in Full-stack Development
+        start: March 2023
+        end: September 2023
+        # responsibilities:
+        #   - "Construire des applications web scalable avec des frameworks open source tels que React ou Django"
+
+  - company:
       name: Roseau Technologies
       url: "https://www.roseautechnologies.com/"
       location: Meylan, France

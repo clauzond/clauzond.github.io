@@ -7,14 +7,14 @@ image: "images/author/damien.png"
 # give your some contact information. they will be used in the footer
 contactInfo:
   # phone: "+0123456789"
-  github: thecsmine
+  github: clauzond
   linkedin: clauzond
   mail: "clauzon.damien@gmail.com"
 
 # some summary about what you do
 summary:
-  - I am a developer
-  - I love JavaScript
-  - I am a student
+  - I am a full-stack developer
+  - I love working with TypeScript
+  - I am a final year student at Ensimag
   - My favorite IDE is VSCode
   - I enjoy working with open source projects

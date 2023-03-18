@@ -11,9 +11,13 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
+  - name: TypeScript
+    logo: /images/sections/skills/typescript.png
+    summary: "Favorite programming language. Have experience in full-stack dev. Familiar with React.js, Next.js, etc."
+
   - name: Javascript
     logo: /images/sections/skills/javascript.png
-    summary: "Favorite programming language. Have experience in developing front-end user interfaces. Familiar with React.js, d3.js, TypeScript etc."
+    summary: "Favorite programming language if it weren't for Typescript. Have experience in developing front-end user interfaces. Familiar with React.js, d3.js, TypeScript etc."
 
   - name: Python
     logo: /images/sections/skills/python.png

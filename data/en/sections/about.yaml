@@ -8,21 +8,21 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Final year student
+designation: Software engineer intern
 # your company information
 company:
-  name: Grenoble INP, UGA — Ensimag
-  url: "https://ensimag.grenoble-inp.fr/"
+  name: Theodo
+  url: "https://www.theodo.fr/"
 
 # a summary about you
-summary: "I am a passionate software engineering student specialized in web development. My favorite programming language is JavaScript as it offers an array of ambitious open source projects, which I love discovering in my free time. This portfolio is a project to help me learn more about the static site generator Hugo."
+summary: "I am a passionate software engineering student from Ensimag specialized in web development. I am currently doing my final year internship at Theodo, a tech-team-for-hire web development company."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
   - name: GitHub
     icon: "fab fa-github"
-    url: "https://www.github.com/thecsmine"
+    url: "https://www.github.com/clauzond"
 
   - name: LinkedIn
     icon: "fab fa-linkedin"

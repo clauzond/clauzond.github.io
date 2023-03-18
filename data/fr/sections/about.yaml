@@ -8,21 +8,21 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Étudiant en dernière année
+designation: Stagiaire software engineer
 # your company information
 company:
-  name: Grenoble INP, UGA — Ensimag
-  url: "https://ensimag.grenoble-inp.fr/"
+  name: Theodo
+  url: "https://www.theodo.fr/"
 
 # a summary about you
-summary: "Je suis un étudiant passionné de développement logiciel spécialisé en développement web. Mon langage de programmation préféré est JavaScript, car il existe de nombreux projets open source ambitieux que j'adore découvrir dans mon temps libre. Ce portfolio est un projet qui me permet de découvrir le générateur de site statique Hugo."
+summary: "Je suis un étudiant de l'Ensimag passionné de développement logiciel spécialisé en développement web. J'effectue actuellement mon stage de fin d'études au sein de Theodo, un cabinet de conseil et de réalisation IT dans le web."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
 socialLinks:
   - name: GitHub
     icon: "fab fa-github"
-    url: "https://www.github.com/thecsmine"
+    url: "https://www.github.com/clauzond"
 
   - name: LinkedIn
     icon: "fab fa-linkedin"

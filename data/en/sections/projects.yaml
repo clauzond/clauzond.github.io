@@ -21,6 +21,7 @@ buttons:
 
 # your projects
 projects:
+  # [Efficity]
   # [GridExpanDER, Projet Web, Projet GL, Projet JAVA, Projet C GUI, Puissance 4 JS, Reversi JS, Projet ISN, MyManager Python]
   - name: GridExpanDER
     logo: /images/sections/projects/react.png
