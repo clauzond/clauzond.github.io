@@ -8,14 +8,14 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Software engineer intern
+designation: Software engineer
 # your company information
 company:
   name: Theodo
   url: "https://www.theodo.fr/"
 
 # a summary about you
-summary: "I am a passionate software engineering student from Ensimag specialized in web development. I am currently doing my final year internship at Theodo, a tech-team-for-hire web development company."
+summary: "I am a passionate software engineer that graduated from Ensimag specialized in web development. I am currently working at Theodo, a tech-team-for-hire web development company."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -35,5 +35,5 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-  - title: "My French Resume"
+  - title: "My French Resume (might be outdated)"
     url: "files/CV_Damien_Clauzon.pdf"

@@ -8,14 +8,14 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Stagiaire software engineer
+designation: Ingénieur logiciel
 # your company information
 company:
   name: Theodo
   url: "https://www.theodo.fr/"
 
 # a summary about you
-summary: "Je suis un étudiant de l'Ensimag passionné de développement logiciel spécialisé en développement web. J'effectue actuellement mon stage de fin d'études au sein de Theodo, un cabinet de conseil et de réalisation IT dans le web."
+summary: "Je suis un ingénieur logiciel diplômé de l'Ensimag passionné de développement logiciel spécialisé en développement web. Je travaille actuellement à Theodo, un cabinet de conseil et de réalisation IT dans le web."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
@@ -35,5 +35,5 @@ socialLinks:
 # You can put custom buttons to link your relevant resources.
 # For example, you can put link for your resume.
 resourceLinks:
-  - title: "Mon CV"
+  - title: "Mon CV (peut être obsolète)"
     url: "files/CV_Damien_Clauzon.pdf"

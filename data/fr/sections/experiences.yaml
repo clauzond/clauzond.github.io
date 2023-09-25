@@ -16,9 +16,19 @@ experiences:
       location: Lyon, France
       overview: Theodo est un cabinet de cabinet de conseil et réalisation IT spécialisé dans le web créé en 2009 par deux polytechniciens. Il fait parti du groupe M33 avec une dizaine de start-ups dans de nombreux domaines comme les technologies mobiles, IA, DevOps, Fintech, etc.
     positions:
+      - designation: Ingénieur logiciel en développement full-stack
+        start: Mars 2023
+        end: Août 2023
+
+  - company:
+      name: Theodo
+      url: "https://www.theodo.fr/"
+      location: Lyon, France
+      overview: Theodo est un cabinet de cabinet de conseil et réalisation IT spécialisé dans le web créé en 2009 par deux polytechniciens. Il fait parti du groupe M33 avec une dizaine de start-ups dans de nombreux domaines comme les technologies mobiles, IA, DevOps, Fintech, etc.
+    positions:
       - designation: Stage de Fin d'Etudes en Développement Full-stack
         start: Mars 2023
-        end: Septembre 2023
+        end: Août 2023
         # responsibilities:
         #   - "Construire des applications web scalable avec des frameworks open source tels que React ou Django"
 
